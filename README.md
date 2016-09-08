@@ -1,7 +1,7 @@
 # gulp-tamplate
 ======
 
-Template icludes
+Template includes
 
 * Jade compiler
 * Stylus compiler
